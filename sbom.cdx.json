@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:9db42ae6-cb67-5755-8351-466db4c93d00",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-06T08:59:45Z",
+    "component": {
+      "type": "application",
+      "name": "BALLISTICS_SIMULATION_PRIOR_DOCS",
+      "version": "ca43b88362de",
+      "bom-ref": "pkg:generic/anticloud/BALLISTICS_SIMULATION_PRIOR_DOCS@ca43b88362de",
+      "purl": "pkg:generic/anticloud/BALLISTICS_SIMULATION_PRIOR_DOCS@ca43b88362de",
+      "licenses": [
+        {
+          "license": {
+            "id": "UNKNOWN"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "ca43b88362dedf6e993c1419205848fda0e39d88"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/namighuseynov/Ballistics-Simulation"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
